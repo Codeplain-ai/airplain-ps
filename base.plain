@@ -1,0 +1,8 @@
+---
+import:
+    - base_powershell
+---
+
+***definitions***
+- :AccessToken: is a token that allows a user to access the :App:.
+- :Authentication: is the process of verifying the identity of a user.
